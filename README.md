@@ -7,7 +7,7 @@ https://travis-ci.org/solana-labs/solana-program-library.svg?branch=master
 
 # Custom Solana Program Library audit information
 
-The Solana Program Library (SPL) is a collection of on-chain programs targeting seaLevel prallel, we made use of the Token module to implement the swan coin thus the auditing should be focused on the Token module, located at 
+The Solana Program Library (SPL) is a collection of on-chain programs targeting seaLevel prallel, we made use of the Token module to implement the swan coin thus the auditing should be focused on the Token module, located at https://github.com/ult-processor/SWAN_AUDIT/tree/main/token
 
 
 # Custom Solana Program Library
